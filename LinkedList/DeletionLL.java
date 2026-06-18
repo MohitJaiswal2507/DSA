@@ -36,23 +36,23 @@ public class DeletionLL {
         System.out.println();
     }
 
-    // public static Node removeHead(Node head){
-    //     if(head == null) return head;
-    //     head = head.next;
-    //     return head;
-    // } 
+    public static Node removeHead(Node head){
+        if(head == null) return head;
+        head = head.next;
+        return head;
+    } 
 
-    // private static Node removeTail(Node head){
-    //     if(head == null || head.next == null) return null; //Edge case if linked list is [null] or [12]->null
+    private static Node removeTail(Node head){
+        if(head == null || head.next == null) return null; //Edge case if linked list is [null] or [12]->null
 
-    //     Node temp = head;
-    //     //Going to the 2nd last element 
-    //     while(temp.next.next != null){
-    //         temp = temp.next;
-    //     } 
-    //     temp.next = null; // 2nd last ko nuullptr dedo
-    //     return head;
-    // }
+        Node temp = head;
+        //Going to the 2nd last element 
+        while(temp.next.next != null){
+            temp = temp.next;
+        } 
+        temp.next = null; // 2nd last ko nuullptr dedo
+        return head;
+    }
     
     private static Node removeKthNode(Node head, int k){
         if(head == null) return null;
@@ -78,6 +78,30 @@ public class DeletionLL {
         
         return head;
     }
+    
+
+    private static Node removeElNode(Node head , int el){
+        if(head == null) return null;
+
+        if(head.data == el){
+            
+            head = head.next;
+            return head;
+        }
+
+        Node temp = head;
+        Node prev = null;
+        
+        while(temp != null){
+            if(temp.data == el){
+                prev.next = prev.next.next;
+                break;
+            }
+            prev = temp;//first save then update temp
+            temp = temp.next;
+        }
+        return head;
+    }
 
     public static void main(String[] args) {
         int [] arr = {12,5,6,8};
@@ -89,16 +113,21 @@ public class DeletionLL {
 
         System.out.println();
 
-        // head = removeHead(head);
-        // printLL(head);
-        // System.out.print("Head after deletion " + head.data);
+        head = removeHead(head);
+        printLL(head);
+        System.out.print("Head after deletion " + head.data);
 
-        // head = removeTail(head);
-        // printLL(head);
-        // System.out.print("Head after Tail deletion " + head.data);
+        head = removeTail(head);
+        printLL(head);
+        System.out.print("Head after Tail deletion " + head.data);
 
         System.out.print("LL after deletion of kth element => ");
         head = removeKthNode(head, 4);
+        printLL(head);
+
+        int el = 5;
+        System.out.printf("LL after deletion of %dth element => ",el);
+        head = removeElNode(head, el);
         printLL(head);
 
     }
