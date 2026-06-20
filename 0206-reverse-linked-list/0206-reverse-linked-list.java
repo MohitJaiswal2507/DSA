@@ -12,24 +12,15 @@ class Solution {
     public ListNode reverseList(ListNode head) {
 
         ListNode temp = head;
+        ListNode prev = null;
 
-        Stack<Integer> st = new Stack<>();
-
-        //Step 1 -> adding data to stack
         while(temp != null){
-            st.push(temp.val);
-            temp = temp.next;
+            ListNode front = temp.next; //saving the current location
+            temp.next = prev; // changing the links
+            prev = temp;
+            temp = front;
         }
-
-        temp = head;
-
-        //Step 2 => taking the top element of stack
-        while(temp != null){
-            temp.val = st.pop();
-
-            temp = temp.next;
-        }
-
-        return head;
+        
+        return prev;
     }
 }
