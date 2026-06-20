@@ -10,17 +10,15 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        //Recurrsive Approach
 
-        ListNode temp = head;
-        ListNode prev = null;
+        if(head == null || head.next == null) return head;
 
-        while(temp != null){
-            ListNode front = temp.next; //saving the current location
-            temp.next = prev; // changing the links
-            prev = temp;
-            temp = front;
-        }
-        
-        return prev;
+        ListNode newHead = reverseList(head.next);
+        ListNode front = head.next;
+        front.next = head;
+        head.next = null;
+
+        return newHead;     
     }
 }
