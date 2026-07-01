@@ -62,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohitJaiswal2507/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/MohitJaiswal2507/DSA/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohitJaiswal2507/DSA/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -86,6 +88,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MohitJaiswal2507/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MohitJaiswal2507/DSA/tree/master/0078-subsets) |
