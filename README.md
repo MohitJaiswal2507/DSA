@@ -85,6 +85,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/MohitJaiswal2507/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MohitJaiswal2507/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0090-subsets-ii) |
 ## Backtracking
@@ -94,6 +95,7 @@
 | [0022-generate-parentheses](https://github.com/MohitJaiswal2507/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/MohitJaiswal2507/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MohitJaiswal2507/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
