@@ -66,6 +66,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MohitJaiswal2507/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MohitJaiswal2507/DSA/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
@@ -90,6 +91,7 @@
 | [0046-permutations](https://github.com/MohitJaiswal2507/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MohitJaiswal2507/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MohitJaiswal2507/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
@@ -102,6 +104,7 @@
 | [0046-permutations](https://github.com/MohitJaiswal2507/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MohitJaiswal2507/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MohitJaiswal2507/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -112,4 +115,9 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MohitJaiswal2507/DSA/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
