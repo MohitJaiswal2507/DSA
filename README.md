@@ -98,6 +98,7 @@
 | [0090-subsets-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/MohitJaiswal2507/DSA/tree/master/0260-single-number-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0137-single-number-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MohitJaiswal2507/DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/MohitJaiswal2507/DSA/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MohitJaiswal2507/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
