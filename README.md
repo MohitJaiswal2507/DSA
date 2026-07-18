@@ -98,6 +98,7 @@
 | [0090-subsets-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/MohitJaiswal2507/DSA/tree/master/0260-single-number-iii) |
 ## Backtracking
 |  |
@@ -132,4 +133,16 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
