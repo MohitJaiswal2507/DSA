@@ -53,6 +53,7 @@
 | [0141-linked-list-cycle](https://github.com/MohitJaiswal2507/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohitJaiswal2507/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/MohitJaiswal2507/DSA/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohitJaiswal2507/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MohitJaiswal2507/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/MohitJaiswal2507/DSA/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
