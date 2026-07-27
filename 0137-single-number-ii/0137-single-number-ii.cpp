@@ -1,19 +1,16 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        //Using Hashmap Mehthod 
-
-        unordered_map<int , int> map;
-        for(int i=0; i<nums.size(); i++){
-            map[nums[i]]++;
-        }
-
-        // Iterating through the map
-        for(auto it: map){
-            if(it.second == 1){
-                return it.first;
+        int ans = 0;
+        for(int bitIndex = 0; bitIndex < 32; bitIndex++){
+            int cnt =0 ;
+            for(int i=0; i<nums.size(); i++){
+                if(nums[i] & (1 << bitIndex)) cnt++;
+            }
+            if(cnt % 3 ==1){
+                ans = ans | (1 << bitIndex);
             }
         }
-        return -1;
+        return ans;
     }
 };
