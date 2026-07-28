@@ -1,24 +1,15 @@
 class Solution {
 public:
     int minFlips(int a, int b, int c) {
-        int flips =0;
-        while(a != 0 || b != 0 || c!=0){
-            //Right most bit of c=1
-            if((c&1) == 1){
-                if((a&1) == 0 && (b&1) == 0) flips++;
-            }
-            //check right most bit of c=0
-            else{
-                if((a&1) == 1 ) flips++;
-                if((b&1) == 1 ) flips++;
-            }
+        //Optimal Approach
+        int result = ((a|b) ^ c); // No of set bits to flip which we can count 
+        //if both a and b bits are 1 then
+        int temp = (a&b);
 
-            //Rihgt shift every number 
-            a>>=1;
-            b>>=1;
-            c>>=1;
-        }
+        int result2 = (temp & result);
+        return __builtin_popcount(result) +  __builtin_popcount(result2); // returning the count of number of set bits 
 
-        return flips;
+        //Directly we could have written 
+        // return __builtin_popcount(((a|b) ^ c)) +  __builtin_popcount((a&b) & ((a|b) ^ c))
     }
 };
