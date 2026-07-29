@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MohitJaiswal2507/DSA/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -132,6 +133,7 @@
 | [0191-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MohitJaiswal2507/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/MohitJaiswal2507/DSA/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MohitJaiswal2507/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MohitJaiswal2507/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
