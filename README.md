@@ -64,6 +64,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/MohitJaiswal2507/DSA/tree/master/0148-sort-list) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0137-single-number-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/MohitJaiswal2507/DSA/tree/master/0260-single-number-iii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0260-single-number-iii](https://github.com/MohitJaiswal2507/DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MohitJaiswal2507/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MohitJaiswal2507/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohitJaiswal2507/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
