@@ -84,6 +84,7 @@
 | [0050-powx-n](https://github.com/MohitJaiswal2507/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/MohitJaiswal2507/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/MohitJaiswal2507/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0338-counting-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MohitJaiswal2507/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/MohitJaiswal2507/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MohitJaiswal2507/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
