@@ -78,6 +78,7 @@
 | [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MohitJaiswal2507/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MohitJaiswal2507/DSA/tree/master/0205-isomorphic-strings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohitJaiswal2507/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0231-power-of-two](https://github.com/MohitJaiswal2507/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/MohitJaiswal2507/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohitJaiswal2507/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohitJaiswal2507/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
