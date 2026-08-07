@@ -44,6 +44,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MohitJaiswal2507/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MohitJaiswal2507/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -176,4 +177,12 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohitJaiswal2507/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MohitJaiswal2507/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MohitJaiswal2507/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
