@@ -1,39 +1,44 @@
 class MyQueue {
-
-    private Stack<Integer> first;
-    private Stack<Integer> second;
+    private Stack<Integer> input, output;
 
     public MyQueue() {
-        first = new Stack<>();
-        second = new Stack<>();
+        input = new Stack<>();
+        output = new Stack<>();
     }
     
     public void push(int x) {
-        first.push(x);
+        input.push(x);
     }
     
     public int pop() {
-        if (second.isEmpty()) {
-            while (!first.isEmpty()) {
-                second.push(first.pop()); // Move elements from first to second
+        if (output.isEmpty()) {
+            while (!input.isEmpty()) {
+                output.push(input.pop());
             }
         }
+        // If queue is still empty, return -1
+        if (output.isEmpty()) {
+            System.out.println("Queue is empty, cannot pop.");
+            return -1;
+        }
 
-        return second.pop(); // Front element of the queue
+        return output.pop();
     }
     
     public int peek() {
-        if (second.isEmpty()) {
-            while (!first.isEmpty()) {
-                second.push(first.pop()); // Move elements from first to second
+        if (output.isEmpty()) {
+            while (!input.isEmpty()) {
+                output.push(input.pop());
             }
         }
 
-        return second.peek(); // Front element of the queue
+        if(output.isEmpty()) return -1;
+
+        return output.peek();
     }
     
     public boolean empty() {
-        return first.isEmpty() && second.isEmpty();
+        return input.isEmpty() && output.isEmpty();
     }
 }
 
