@@ -48,6 +48,7 @@
 | [0225-implement-stack-using-queues](https://github.com/MohitJaiswal2507/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MohitJaiswal2507/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/MohitJaiswal2507/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/MohitJaiswal2507/DSA/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohitJaiswal2507/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/MohitJaiswal2507/DSA/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/MohitJaiswal2507/DSA/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0137-single-number-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/MohitJaiswal2507/DSA/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/MohitJaiswal2507/DSA/tree/master/0496-next-greater-element-i) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -198,4 +201,8 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohitJaiswal2507/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MohitJaiswal2507/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
