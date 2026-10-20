@@ -59,6 +59,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/MohitJaiswal2507/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/MohitJaiswal2507/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MohitJaiswal2507/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MohitJaiswal2507/DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/MohitJaiswal2507/DSA/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
@@ -71,6 +72,7 @@
 | [0047-permutations-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/MohitJaiswal2507/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/MohitJaiswal2507/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MohitJaiswal2507/DSA/tree/master/0242-valid-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
 |  |
@@ -86,6 +88,7 @@
 | [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MohitJaiswal2507/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MohitJaiswal2507/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/MohitJaiswal2507/DSA/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MohitJaiswal2507/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
