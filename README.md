@@ -62,12 +62,14 @@
 | [0205-isomorphic-strings](https://github.com/MohitJaiswal2507/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MohitJaiswal2507/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MohitJaiswal2507/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/MohitJaiswal2507/DSA/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MohitJaiswal2507/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [0148-sort-list](https://github.com/MohitJaiswal2507/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/MohitJaiswal2507/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MohitJaiswal2507/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Merge Sort
 |  |
@@ -131,6 +134,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/MohitJaiswal2507/DSA/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/MohitJaiswal2507/DSA/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/MohitJaiswal2507/DSA/tree/master/0496-next-greater-element-i) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
@@ -190,6 +194,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MohitJaiswal2507/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
@@ -217,4 +222,16 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MohitJaiswal2507/DSA/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
