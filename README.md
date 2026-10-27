@@ -56,6 +56,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/MohitJaiswal2507/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/MohitJaiswal2507/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/MohitJaiswal2507/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MohitJaiswal2507/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohitJaiswal2507/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -129,6 +130,7 @@
 | [0078-subsets](https://github.com/MohitJaiswal2507/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MohitJaiswal2507/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MohitJaiswal2507/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MohitJaiswal2507/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MohitJaiswal2507/DSA/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohitJaiswal2507/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -236,4 +238,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MohitJaiswal2507/DSA/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MohitJaiswal2507/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
